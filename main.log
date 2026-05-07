@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.15)  8 MAY 2026 00:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.15)  8 MAY 2026 00:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1257,7 +1257,10 @@ Package chemmacros Info: Using float defining method `float'.
 
 \@float@every@scheme=\toks43
 \c@scheme=\count528
-(./main.aux)
+(./main.aux
+Package babel Info: 'ngerman' activates 'german' shorthands.
+(babel)             Reported on input line 14.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1278,8 +1281,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-Package babel Info: 'ngerman' activates 'german' shorthands.
-(babel)             Reported on input line 5.
  (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count529
@@ -1355,14 +1356,13 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 Package scrbase Info: activating ngerman \figurename on input line 5.
 Package scrbase Info: activating ngerman \tablename on input line 5.
-(c:/texlive/2026/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
+ (c:/texlive/2026/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 5.
@@ -1383,44 +1383,16 @@ Non-PDF special ignored!
 \openout6 = `main.toc'.
 
  [1]
-
-LaTeX Warning: Citation 'skript' on page 1 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'skript' on page 1 undefined on input line 63.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.71 \newpage
-              [1]
-
-LaTeX Warning: Citation 'skript' on page 2 undefined on input line 77.
-
-[2]
+              [1] [2]
 Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
 
 [3]
-
-LaTeX Warning: Citation 'Elektrodenpotentiale' on page 4 undefined on input line 136.
-
-
-LaTeX Warning: Citation 'no2_no3-' on page 4 undefined on input line 136.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
-\T1/cmr/m/n/12 Aus den Be-ob-ach-tun-gen lässt sich al-so fol-gen-de Ein-ord-nun-gen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
-\T1/cmr/m/n/12 der Re-dox-paa-re in die elek-tro-che-mi-sche Span-nungs-rei-he schlie-ÿen
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 135--137
 
  []
@@ -1436,13 +1408,6 @@ Overfull \hbox (9.49762pt too wide) detected at line 208
  []
 
 [6]
-
-LaTeX Warning: Citation 'redox' on page 7 undefined on input line 221.
-
-
-LaTeX Warning: Citation 'allg_ac_buch_riedel' on page 7 undefined on input line 221.
-
-
 Underfull \hbox (badness 1655) in paragraph at lines 241--246
 \T1/cmr/m/n/12 et-was Na-tri-um-hy-droxid ver-setzt und es wur-de et-was Mangansulfat-Lösung
  []
@@ -1496,29 +1461,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 299.
 
 [10]
-<Bilder/Thiosulfat.jpg, id=114, 1820.8025pt x 1367.1075pt>
+<Bilder/Thiosulfat.jpg, id=159, 1820.8025pt x 1367.1075pt>
 File: Bilder/Thiosulfat.jpg Graphic file (type jpg)
 <use Bilder/Thiosulfat.jpg>
 Package pdftex.def Info: Bilder/Thiosulfat.jpg  used on input line 333.
 (pdftex.def)             Requested size: 200.76pt x 150.71605pt.
-<Bilder/Tetrathionat.jpg, id=115, 1821.80624pt x 1391.1975pt>
+<Bilder/Tetrathionat.jpg, id=160, 1821.80624pt x 1391.1975pt>
 File: Bilder/Tetrathionat.jpg Graphic file (type jpg)
 <use Bilder/Tetrathionat.jpg>
 Package pdftex.def Info: Bilder/Tetrathionat.jpg  used on input line 339.
 (pdftex.def)             Requested size: 200.76pt x 153.28693pt.
- [11 <./Bilder/Thiosulfat.jpg> <./Bilder/Tetrathionat.jpg>]
-
-LaTeX Warning: Citation 'Elektrodenpotentiale' on page 12 undefined on input line 367.
-
-
-LaTeX Warning: Citation 'Elektrodenpotentiale' on page 12 undefined on input line 367.
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 367--368
-[]\T1/cmr/m/n/12 Das Re-dox-paar $[][][][][] \OT1/cmr/m/n/12 + [][]e[][][] [] [][][][][]$ \T1/cmr/m/n/12 hat ein Stan-dart-elek-tro-den-po-ten-ti-al
- []
-
-[12]
+ [11 <./Bilder/Thiosulfat.jpg> <./Bilder/Tetrathionat.jpg>] [12]
 Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
@@ -1534,43 +1487,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--390
  []
 
 [13]
+Underfull \hbox (badness 2913) in paragraph at lines 396--396
+[]\T1/cmr/m/n/12 Wired Che-mist - Stan-dard Elek-tro-de Pot-ne-ti-als, []$\T1/cmtt/m/n/12 https : / / www .
+ []
 
-LaTeX Warning: Empty bibliography on input line 395.
-
-(./main.aux)
+[1] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46691 strings out of 467349
- 1008362 string characters out of 5419862
- 2033401 words of memory out of 5000000
- 75084 multiletter control sequences out of 15000+600000
- 660168 words of font info for 126 fonts, out of 8000000 for 9000
+ 46754 strings out of 467349
+ 1010014 string characters out of 5419862
+ 2034006 words of memory out of 5000000
+ 75136 multiletter control sequences out of 15000+600000
+ 662715 words of font info for 130 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  118i,17n,132p,11305b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on main.pdf (15 pages, 663075 bytes).
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (16 pages, 702806 bytes).
 PDF statistics:
- 324 PDF objects out of 1000 (max. 8388607)
- 262 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 392 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
+ 66 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 

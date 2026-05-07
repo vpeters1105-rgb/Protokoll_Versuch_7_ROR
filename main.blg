@@ -1,5 +1,19 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'main.blg'
-[211] biber-MSWIN64:342> INFO - === 
-[307] Utils.pm:479> ERROR - main.bcf is malformed, last biblatex run probably failed. Deleted main.bbl
-[307] Biber.pm:137> INFO - ERRORS: 1
+[1] Config.pm:331> INFO - Logfile is 'main.blg'
+[195] biber-MSWIN64:342> INFO - === 
+[299] Biber.pm:421> INFO - Reading 'main.bcf'
+[525] Biber.pm:1002> INFO - Found 5 citekeys in bib section 0
+[580] Biber.pm:4487> INFO - Processing section 0
+[614] Biber.pm:4678> INFO - Looking for bibtex file 'lit.bib' for section 0
+[880] bibtex.pm:1713> INFO - LaTeX decoding ...
+[909] bibtex.pm:1519> INFO - Found BibTeX data source 'lit.bib'
+[1354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1354] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[1354] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[1393] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1400] bbl.pm:779> INFO - Output to main.bbl
+[1401] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[1401] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[1401] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[1401] Biber.pm:134> INFO - WARNINGS: 3
