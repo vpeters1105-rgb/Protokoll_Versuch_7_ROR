@@ -1,15 +1,16 @@
 # Fdb version 4
-["biber main"] 1778188320.47888 "main.bcf" "main.bbl" "main" 1778190203.77255 0
+["biber main"] 1778188320.47888 "main.bcf" "main.bbl" "main" 1778191713.88744 0
   "lit.bib" 1778190099 1691 a92cdfdcc79629238945875cbe7e950e ""
-  "main.bcf" 1778190203 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
+  "main.bcf" 1778191713 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778190197.05074 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778190203.77311 0
+["pdflatex"] 1778191707.07791 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778191713.88793 0
   "Bilder/Tetrathionat.jpg" 1778182111 192237 517edbbaf76dabc75dae2a3d27a15e5b ""
   "Bilder/Thiosulfat.jpg" 1778182111 153757 af8a666dd9f3ec1defaa6f179272ca6b ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778183608 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk" 1778183616 19872 911ce911fab99c648e255def51c44a64 ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1778183619 31952 241f8be8e9926190af2d8471897836f6 ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0600.pk" 1778183618 14880 056e22657b924f401fe63c3d7deb97d6 ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk" 1778183619 19080 1b007d2649e3beabe5ea42fdd429d606 ""
@@ -23,6 +24,8 @@
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1778183658 39120 0295a29467852880ea68752d65246b3a ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1778183657 24152 504e5400a668642c439f62b6a0a5dc10 ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1778183535 13350271 ebbf09ca7ffb0d50174b64d2b4b1d679 ""
+  "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx0600.tfm" 993061948 3220 e9a21a7d7d0e2fc0e753b29871f8c8de ""
+  "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx0800.tfm" 993061952 3200 63efb90caaa95542f9901b8e62d76417 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx2074.tfm" 993061964 3208 da5ec29ca7c2f5f55c296dd6713d4a74 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm0500.tfm" 993062114 3160 7643a152c0e9200a0a8161b2bb3a452d ""
@@ -290,12 +293,12 @@
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "Pre.sty" 1778182111 2387 dae4282edc8cf6a3954e7df7daaf37d5 ""
-  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778190196 24577 ea2e592272fc8dbb9779ee9f5aeccb23 ""
-  "main.aux" 1778190203 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
+  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778191706 24715 004b5f80d086f44b2a1adf4f9f8a10d0 ""
+  "main.aux" 1778191713 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
   "main.bbl" 1778188321 5423 58054cb75f3eb6285bcaf38fe206c5c5 "biber main"
-  "main.run.xml" 1778190203 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
-  "main.tex" 1778190196 24577 ea2e592272fc8dbb9779ee9f5aeccb23 ""
-  "main.toc" 1778190203 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
+  "main.run.xml" 1778191713 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
+  "main.tex" 1778191706 24715 004b5f80d086f44b2a1adf4f9f8a10d0 ""
+  "main.toc" 1778191713 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
