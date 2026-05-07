@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1778183624.01265 "main.bcf" "main.bbl" "main" 1778184336.63591 0
-  "lit.bib" 1778182111 1691 77c11ac2eae207047a78dc047cc7b4fd ""
-  "main.bcf" 1778184336 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
+["biber main"] 1778188320.47888 "main.bcf" "main.bbl" "main" 1778190203.77255 0
+  "lit.bib" 1778190099 1691 a92cdfdcc79629238945875cbe7e950e ""
+  "main.bcf" 1778190203 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778184329.90023 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778184336.63653 0
+["pdflatex"] 1778190197.05074 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778190203.77311 0
   "Bilder/Tetrathionat.jpg" 1778182111 192237 517edbbaf76dabc75dae2a3d27a15e5b ""
   "Bilder/Thiosulfat.jpg" 1778182111 153757 af8a666dd9f3ec1defaa6f179272ca6b ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778183608 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -290,12 +290,12 @@
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "Pre.sty" 1778182111 2387 dae4282edc8cf6a3954e7df7daaf37d5 ""
-  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778184329 24404 59dc2f4f479c68c56aeb939bcb1e3394 ""
-  "main.aux" 1778184336 15113 8f7c55eb638ce9d05b951ccb797fbf03 "pdflatex"
-  "main.bbl" 1778183650 5426 3e5430b4f63f9ee493ce6a0b80bf7b42 "biber main"
-  "main.run.xml" 1778184336 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
-  "main.tex" 1778184329 24404 59dc2f4f479c68c56aeb939bcb1e3394 ""
-  "main.toc" 1778184336 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
+  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778190196 24577 ea2e592272fc8dbb9779ee9f5aeccb23 ""
+  "main.aux" 1778190203 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
+  "main.bbl" 1778188321 5423 58054cb75f3eb6285bcaf38fe206c5c5 "biber main"
+  "main.run.xml" 1778190203 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
+  "main.tex" 1778190196 24577 ea2e592272fc8dbb9779ee9f5aeccb23 ""
+  "main.toc" 1778190203 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
