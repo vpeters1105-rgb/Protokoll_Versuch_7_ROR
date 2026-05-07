@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber main"] 1778192998.30537 "main.bcf" "main.bbl" "main" 1778193533.75323 0
+["biber main"] 1778192998.30537 "main.bcf" "main.bbl" "main" 1778194022.57872 0
   "lit.bib" 1778192863 1777 a92cdfdcc79629238945875cbe7e950e ""
-  "main.bcf" 1778193533 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
+  "main.bcf" 1778194022 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778193514.92549 "c:/Users/Darkrimy/Desktop/test/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778193533.75459 0
+["pdflatex"] 1778194001.12873 "c:/Users/Darkrimy/Desktop/test/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778194022.57991 0
   "Bilder/Tetrathionat.jpg" 1778192863 192237 517edbbaf76dabc75dae2a3d27a15e5b ""
   "Bilder/Thiosulfat.jpg" 1778192863 153757 af8a666dd9f3ec1defaa6f179272ca6b ""
   "Pre.sty" 1778192863 2430 dae4282edc8cf6a3954e7df7daaf37d5 ""
-  "c:/Users/Darkrimy/Desktop/test/Protokoll_Versuch_7_ROR/main.tex" 1778193513 25131 46bc5cdc600af1352fd82018bbcf7695 ""
+  "c:/Users/Darkrimy/Desktop/test/Protokoll_Versuch_7_ROR/main.tex" 1778193999 25181 e0801f6639592db16fb4a44cb50296b7 ""
   "c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1776281070 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1776282137 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecbx0600.tfm" 1776281673 3584 ad9fcbc26a2a7bccd6d08b0a5792fbe0 ""
@@ -296,11 +296,11 @@
   "c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1776286906 5619402 045890036aad9b52b154ef5568e59d3a ""
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1776287036 3648459 c505e38253f47c62c9e331f6d762922e ""
   "c:/texlive/2026/texmf.cnf" 1776286818 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1778193533 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
+  "main.aux" 1778194022 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
   "main.bbl" 1778193002 5423 58054cb75f3eb6285bcaf38fe206c5c5 "biber main"
-  "main.run.xml" 1778193533 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
-  "main.tex" 1778193513 25131 46bc5cdc600af1352fd82018bbcf7695 ""
-  "main.toc" 1778193533 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
+  "main.run.xml" 1778194022 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
+  "main.tex" 1778193999 25181 e0801f6639592db16fb4a44cb50296b7 ""
+  "main.toc" 1778194022 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
