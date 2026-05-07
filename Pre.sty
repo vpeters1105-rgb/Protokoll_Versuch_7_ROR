@@ -1,0 +1,44 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{Pre}
+
+
+\usepackage[utf8]{inputenc} %Ermöglicht Unicode, absolut notwendig
+\usepackage[ngerman]{babel} %Ermöglicht deutsche Sonderzeichen, z. B. Umlaute
+\usepackage[T1]{fontenc} %Ermöglicht Unicode, absolut notwendig
+\usepackage{amsmath} %Wichtige Mathe-Möglichkeiten
+\usepackage{amssymb} %Wichtige Mathe-Möglichkeiten
+\usepackage[onehalfspacing]{setspace} %Bestimmt den Zeilenabstand, hier 1,5
+\usepackage{graphicx} %Bessere Bilder
+\usepackage{epstopdf} %Um .eps-Bilder in Latex verwenden zu können
+\usepackage{array} %Bessere Formatierung / Umgebung für mehrzeilige Formeln
+\usepackage{upgreek} %Für nicht kursive griechische Buchstaben, z. B. \upmu statt \mu
+\usepackage[hidelinks]{hyperref}
+\usepackage{float} %Großes H zum fixieren von Abbildungen/Tabellen
+\usepackage{csquotes}% Anführungszeichen etc.
+\usepackage{chemformula}% mächtiges Chemiepaket(Rkt. Gl., Oxidationszahlen etc.)
+\usepackage{chemgreek}% für chemformula
+%\usepackage{chemmacros}% für chemformula
+\usepackage[version = 4]{mhchem}
+\usepackage{tikz} %Vektorgrafziken im LaTeX-eigenen Format, z. B. zum Export aus QtiPlot
+\usepackage{lipsum}
+\usepackage{darkmode} % XXX
+\usepackage{geometry} %Für Einstellungen zum Rand etc.
+\usepackage[font=small]{caption} %Bestimmt die Schriftgröße von Tabellenüberschriften und Bildunterschriften, optional
+\usepackage[backend=biber, style=chem-angew]{biblatex} %Literaturverzeichnis
+\usepackage{tabularx, booktabs, multirow} %Für bessere Tabellen und einfachen Excel to Latex import
+\addbibresource{lit.bib} %Literaturverzeichnis, zu finden als Datei lit.bib im selben Ordner wie diese .tex-Datei XXX
+\captionsetup{format=plain}
+\newcommand{\celsius}{^{\circ}\mathrm{C}} %Ermöglicht es, \celsius für die Einheit °C zu verwenden
+\geometry{bottom=100pt} \geometry{top=100pt} %Definiert den oberen und unteren Rand, optional
+\parindent0pt %Kein Einzug am Anfang von Absätzen
+\sloppy %Besserer Blocksatz
+\renewcaptionname{ngerman}{\figurename}{Abb.} %Umbenennung Abbildungen, optional
+\renewcaptionname{ngerman}{\tablename}{Tab.} %Umbenennung Tabellen, optional
+%\enabledarkmode %XXX
+
+\usepackage{chemmacros}    % stellt \ox zur Verfügung
+\chemsetup[redox]{explicit-sign = true}
+\chemsetup[redox]{pos = top}
+\chemsetup[redox]{align = center}
+\chemsetup[redox]{roman = true}
+\chemsetup[redox]{explicit-zero-sign = true}
